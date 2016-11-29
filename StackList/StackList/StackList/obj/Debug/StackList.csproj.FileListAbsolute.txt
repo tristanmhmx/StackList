@@ -1,0 +1,4 @@
+C:\Users\TMARTINEZ\Source\Repos\StackList\StackList\StackList\StackList\obj\Debug\StackList.csprojResolveAssemblyReference.cache
+C:\Users\TMARTINEZ\Source\Repos\StackList\StackList\StackList\StackList\obj\Debug\StackList.MainPage.xaml.g.cs
+C:\Users\TMARTINEZ\Source\Repos\StackList\StackList\StackList\StackList\obj\Debug\StackList.App.xaml.g.cs
+C:\Users\TMARTINEZ\Source\Repos\StackList\StackList\StackList\StackList\obj\Debug\StackList.StackListControl.xaml.g.cs
