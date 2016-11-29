@@ -6,6 +6,8 @@ Code for a custom list of stack layouts for Xamarin Forms mainly thought for rez
 
 ###Usage
 
+Instead of ObservableCollection use SmartCollection
+
 ```xaml
 <controls:StackListControl 
   ItemsSource="{Binding YOUR_DATA}" 
